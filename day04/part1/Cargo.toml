@@ -1,7 +1,0 @@
-[package]
-name = "part1"
-version = "0.1.0"
-authors = ["theROlloR <45531941+theROlloR@users.noreply.github.com>"]
-edition = "2018"
-
-[dependencies]
